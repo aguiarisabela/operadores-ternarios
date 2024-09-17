@@ -1,0 +1,1 @@
+Apenas um modelo básico de como usar os comando ternários. 
